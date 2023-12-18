@@ -1,2 +1,2 @@
 # Arquivos-SQL:
-Criados a partir do aplicativo My SQL Wokbench 8.0
+Criados a partir do aplicativo My SQL Workbench 8.0
